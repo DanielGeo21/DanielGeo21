@@ -27,8 +27,12 @@
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="SEU_LINK_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://github.com/DanielGeo21">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href= "https://steamcommunity.com/profiles/76561199784548318/">
+    <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam" />
   </a>
 </p>
 
