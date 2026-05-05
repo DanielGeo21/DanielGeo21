@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Daniel 👨‍💻</h1>
 
-<!--
-**DanielGeo21/DanielGeo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Estudante de Desenvolvimento de Sistemas <br>
+  💡 Focado em evoluir como desenvolvedor Full Stack
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DanielGeo21&color=blue" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 📍 São Paulo - Brasil  
+- 🎓 Estudante de Desenvolvimento de Sistemas  
+- 💻 Atualmente estudando:  
+  - HTML, CSS, JavaScript  
+  - Java, PHP  
+  - SQL, C++  
+- 🚀 Buscando evoluir em Backend e projetos reais  
+- 🎯 Objetivo: me tornar um desenvolvedor profissional  
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="SEU_LINK_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,cpp,mysql,git,github" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DanielGeo21&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGeo21&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DanielGeo21&theme=radical" />
+</p>
+
+---
+
+## 📌 Projetos em Destaque
+
+🚧 Em construção... (em breve projetos aqui)
+
+---
+
+## ⚡ Curiosidades
+
+- 💡 Gosto de tecnologia e programação  
+- 🎮 Curto games e explorar novas ferramentas  
+- 📚 Sempre buscando aprender algo novo  
+
+---
+
+<p align="center">
+  💻 "Evoluindo um commit por vez"
+</p>
