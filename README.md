@@ -47,6 +47,9 @@
 
 ---
 
+🧠 3. Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGeo21&layout=compact&theme=dark)
+
 ## 📊 Estatísticas
 
 <p align="center">
