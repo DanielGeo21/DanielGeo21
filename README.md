@@ -84,6 +84,10 @@
 - 📚 Sempre buscando aprender algo novo  
 
 ---
+
+<p align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVrdTZ4NXMyazlxaGNpMXQ3eHRyemZ3aGE2NjRoYTd6MmpnOHp4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="120px" />
+</p>
 ## 🐍 Minhas contribuições
 
 ![Snake animation](https://github.com/DanielGeo21/DanielGeo21/blob/output/github-contribution-grid-snake-dark.svg)
