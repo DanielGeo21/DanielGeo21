@@ -23,6 +23,7 @@
 - 🎯 Objetivo: me tornar um desenvolvedor profissional  
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DanielGeo21=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Conecte-se comigo
 
