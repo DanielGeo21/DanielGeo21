@@ -43,6 +43,14 @@
   <a href= "https://steamcommunity.com/profiles/76561199784548318/">
     <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam" />
   </a>
+
+  <a href="https://www.youtube.com/@RelatórioZ">
+    <img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000" />
+  </a>
+
+  <a href="https://discord.gg/https://discord.com/users/1350924727962828800">
+    <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=5865F2" />
+  </a>
 </p>   
 
 ---
