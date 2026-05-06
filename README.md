@@ -1,4 +1,9 @@
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+</p>
+
 <h1 align="center">Daniel 👨‍💻</h1>
+
 
 <p align="center">
   🚀 Estudante de Desenvolvimento de Sistemas <br>
@@ -47,8 +52,7 @@
 
 ---
 
-🧠 3. Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGeo21&layout=compact&theme=dark)
+
 
 ## 📊 Estatísticas
 
