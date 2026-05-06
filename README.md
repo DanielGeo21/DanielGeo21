@@ -31,7 +31,9 @@
 - 🎯 Objetivo: me tornar um desenvolvedor profissional  
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DanielGeo21=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielGeo21&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🌐 Conecte-se comigo   
 
@@ -48,7 +50,7 @@
     <img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000" />
   </a>
 
-  <a href="https://discord.gg/https://discord.com/users/1350924727962828800">
+  <a href="https://discord.com/users/1350924727962828800">
     <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=5865F2" />
   </a>
 </p>   
@@ -57,7 +59,7 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,php,cpp,mysql,git,github" />
 </p>
 
@@ -66,13 +68,11 @@
 
 
 
-## 📊 Estatísticas
+## 🧠 Linguagens mais usadas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DanielGeo21&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGeo21&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielGeo21&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🔥 Sequência de Contribuições
