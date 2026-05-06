@@ -77,6 +77,9 @@
 - 📚 Sempre buscando aprender algo novo  
 
 ---
+## 🐍 Minhas contribuições
+
+![Snake animation](https://github.com/DanielGeo21/DanielGeo21/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   💻 "Evoluindo um commit por vez"
