@@ -3,6 +3,9 @@
 </p>
 
 <h1 align="center">Daniel 👨‍💻</h1>
+<p align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVrdTZ4NXMyazlxaGNpMXQ3eHRyemZ3aGE2NjRoYTd6MmpnOHp4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="120px" />
+</p>
 
 
 <p align="center">
@@ -30,7 +33,7 @@
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DanielGeo21=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🌐 Conecte-se comigo
+## 🌐 Conecte-se comigo   
 
 <p align="left">
   <a href="https://github.com/DanielGeo21">
@@ -40,7 +43,7 @@
   <a href= "https://steamcommunity.com/profiles/76561199784548318/">
     <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam" />
   </a>
-</p>
+</p>   
 
 ---
 
@@ -49,6 +52,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,java,php,cpp,mysql,git,github" />
 </p>
+
 
 ---
 
@@ -85,9 +89,7 @@
 
 ---
 
-<p align="right">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVrdTZ4NXMyazlxaGNpMXQ3eHRyemZ3aGE2NjRoYTd6MmpnOHp4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="120px" />
-</p>
+
 
 ## 🐍 Minhas contribuições
 
