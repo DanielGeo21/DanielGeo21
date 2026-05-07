@@ -10,7 +10,7 @@
 
 <p align="center">
   🚀 Estudante de Desenvolvimento de Sistemas <br>
-  💡 Focado em evoluir como desenvolvedor Full Stack
+  💡 Focado em evoluir como desenvolvedor Back-End
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
   - HTML, CSS, JavaScript  
   - Java, PHP  
   - SQL, C++  
-- 🚀 Buscando evoluir em Backend e projetos reais  
+- 🚀 Buscando evoluir em Back-end e projetos reais  
 - 🎯 Objetivo: me tornar um desenvolvedor profissional  
 
 ---
