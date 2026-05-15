@@ -85,7 +85,42 @@
 
 ## 📌 Projetos em Destaque
 
-🚧 Em construção... (em breve projetos aqui)
+
+<table>
+<tr>
+<td width="50%">
+
+## 🤖 Carrinho Robótico ESP-NOW
+
+Projeto de carrinho controlado remotamente utilizando dois ESP32 com comunicação via ESP-NOW e joystick analógico.
+
+### ⚙️ Funcionalidades
+- Controle remoto sem fio
+- Movimentação em tempo real
+- Comunicação ESP-NOW
+- Controle de direção e velocidade
+
+### 🛠️ Tecnologias
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+<br>
+
+<a href="https://github.com/DanielGeo21/RC-CAR-ESP_NOW">
+  <img src="https://img.shields.io/badge/🔗_Ver_Repositório-000?style=for-the-badge" />
+</a>
+
+</td>
+
+<td width="50%">
+<img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="100%" />
+</td>
+
+</tr>
+</table>
+
+---
 
 ---
 
