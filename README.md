@@ -114,7 +114,7 @@ Projeto de carrinho controlado remotamente utilizando dois ESP32 com comunica√ß√
 </td>
 
 <td width="50%">
-<img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGR5dDE2ZWtueGlmbnozMTdjZWVlYXc0OGk1b2pwaHZwM3RhMWZldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dHMmY2P0ksVizCaPkT/giphy.gif" width="100%" />
 </td>
 
 </tr>
