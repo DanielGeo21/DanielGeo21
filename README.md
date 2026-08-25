@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 </p>
 
-<h1 align="center">Daniel 👨‍💻</h1>
+<h1 align="center">Daniel Carvalho 👨‍💻</h1>
 <p align="right">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVrdTZ4NXMyazlxaGNpMXQ3eHRyemZ3aGE2NjRoYTd6MmpnOHp4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="120px" />
 </p>
